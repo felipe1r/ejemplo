@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+    background-image: url(../ejemplo/actividad/imagenesP/Poster\ adopción\ perros\ ilustrado\ blanco.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center; 
+    background-attachment: fixed;
+}
+header{
+    color: blueviolet;
+    text-align: center;
+}
